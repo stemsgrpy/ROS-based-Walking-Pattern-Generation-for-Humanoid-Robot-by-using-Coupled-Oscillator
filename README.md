@@ -1,6 +1,6 @@
 # ROS-based-Walking-Pattern-Generation-for-Humanoid-Robot-by-using-Coupled-Oscillator
 
-## Walking Pattern Generation
+## Walking Pattern Generation <code adjusting!!!>
 - Generate three-dimensional trajectories of **waist** and **feet** for humanoid robot
 - Download this project
 ```
