@@ -1,0 +1,1 @@
+# ROS-based-Walking-Pattern-Generation-for-Humanoid-Robot-by-using-Coupled-Oscillator
