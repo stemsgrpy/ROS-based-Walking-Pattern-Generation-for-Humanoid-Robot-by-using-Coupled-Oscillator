@@ -1,0 +1,23 @@
+float32 X_Right_foot
+float32 X_Left_foot
+float32 Y_Right_foot
+float32 Y_Left_foot
+float32 Z_Right_foot
+float32 Z_Left_foot
+float32 X_COM
+float32 Y_COM
+float32 Z_COM
+float32 Right_Thta
+float32 Left_Thta
+int32 counter
+bool stopflag
+float32 IK_Point_RX
+float32 IK_Point_RY
+float32 IK_Point_RZ
+float32 IK_Point_RThta
+float32 IK_Point_LX
+float32 IK_Point_LY
+float32 IK_Point_LZ
+float32 IK_Point_LThta
+---
+int32 serialack
