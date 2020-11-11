@@ -79,7 +79,7 @@
   <img width="500" src="/README/OverallTrajectory.jpg">
 </p>
 <p align="center">
-  Figure 1: Overall Trajectory
+  Figure 1: Overall Trajectory (Forward Trajectory)
 </p>
 
 <p align="center">
